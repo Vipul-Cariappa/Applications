@@ -1,5 +1,7 @@
-for i in range(2, 101):
-    for j in range(2, i):
+num = int(input("Enter the number upto which prime numbers should be generated: "))
+
+for i in range(num):
+    for j in range(2, num//2):
         if i % j == 0:
             break
     else:
