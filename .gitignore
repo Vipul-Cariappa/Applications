@@ -102,6 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-Food-Management/DataBase.db
+
+# user defined
 Bill-Application-GUI/bills
 .vscode/settings.json

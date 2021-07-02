@@ -1,4 +1,4 @@
-from Bill import Bill_Object
+from bill import Bill_Object
 import pickle
 from datetime import date
 import tkinter as tk

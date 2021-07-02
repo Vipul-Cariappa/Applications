@@ -1,5 +1,0 @@
-make two players
-toss
-run count
-out method
-check win
